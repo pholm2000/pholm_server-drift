@@ -1,6 +1,3 @@
--[(01001100 01100001 01110110 01100101 01110100 01011111 01000001 01100110 01011111 01110000 01101000 01101111 01101100 01101101 00100001)]-
-Tal oven over må IKKE slettes
-
 # pholm_server-drift
 Super simpelt server status script med en embed.
 Du må under INGEN omstændigheder tage credit for scriptet!
